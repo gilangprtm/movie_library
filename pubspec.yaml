@@ -1,0 +1,46 @@
+name: movie_library
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.19.2 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.6.5
+  flutter: 
+    sdk: flutter
+  firebase_core: ^2.1.1
+  firebase_auth: ^4.1.1
+  firebase_remote_config: ^3.0.4
+  firebase_analytics: ^10.0.4
+  font_awesome_flutter: ^10.4.0
+  flutter_easyloading: ^3.0.5
+  modal_bottom_sheet: ^3.0.0-pre
+  shimmer: ^2.0.0
+  google_fonts: ^4.0.3
+  uuid: ^3.0.7
+  carousel_slider: ^4.2.1
+  intl: ^0.17.0
+  flutter_launcher_icons: ^0.12.0
+
+dev_dependencies: 
+  flutter_lints: 2.0.1
+  flutter_test: 
+    sdk: flutter
+
+flutter_icons:
+  image_path: "assets/images/logo.png"
+  android: true
+  ios: true
+
+flutter: 
+  uses-material-design: true
+  assets:
+   - assets/images/
+   
+  fonts:
+  - family: FontAwesome5
+    fonts:
+      - asset: assets/fonts/FontAwesome5.ttf  
+

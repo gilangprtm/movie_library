@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1072737310103",
+    "project_id": "app-movie-library",
+    "storage_bucket": "app-movie-library.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072737310103:android:233eb37d44ed02cb25e0d2",
+        "android_client_info": {
+          "package_name": "com.edjavu.movie_library"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072737310103-k1efvicqp17a8dk65lqlu10c11hdro6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5BDV1XkqDMcgnSIwX0a79aBrzBT_vt8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072737310103-j4nlu3t4dn3g44457b9525uijv3r3bbp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1072737310103-joiorcv7cjnqm4hfs6vlrkaa99fgjs76.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.edjavu.movieLibrary"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
